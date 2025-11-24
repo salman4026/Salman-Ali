@@ -1,0 +1,489 @@
+{
+  "hero": {
+    "name": "Salman Ali",
+    "role": "Structural Engineer",
+    "subTagline": "Building Tomorrow's Infrastructure Today",
+    "description": "Designing safe, efficient, and code-compliant structures that stand the test of time",
+    "imageUrl": "./images/Structural_Design.jpg",
+    "ctaButtons": [
+      {
+        "label": "View Projects",
+        "target": "projects"
+      },
+      {
+        "label": "Contact Me",
+        "target": "contact"
+      },
+      {
+        "label": "Explore Research",
+        "target": "research"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Civil Engineer | Structural Designer | Researcher |",
+    "content": "I am a civil engineer with specialized expertise in Reinforced Concrete (RC) and Steel Structure design, working with both Indian Standards (IS codes) and European Codes (Eurocodes). My portfolio includes designing multi-storey RC buildings and industrial steel halls, combining analytical precision with practical construction knowledge. I leverage advanced software tools including AutoCAD, Revit, AxisVM, Tekla, and Consteel to transform concepts into buildable structures.",
+    "currentRole": "Research Assistant, Budapest University of Technology and Economics",
+    "imageUrl": "./images/salman_profile.jpg"
+  },
+  "experience": [
+    {
+      "title": "Research Assistant",
+      "company": "Budapest University of Technology and Economics",
+      "location": "Budapest, Hungary",
+      "startDate": "Jul 2022",
+      "endDate": "Current",
+      "description": [
+        "Performed material lab tests, monitored data, and documented insights per research protocols.",
+        "Executed simulations and analysis on energy efficiency, indoor comfort, and material sustainability.",
+        "Maintained technical documentation and research data records using Excel."
+      ],
+      "tags": [
+        "Research",
+        "Analysis",
+        "Documentation",
+        "Simulation"
+      ]
+    },
+    {
+      "title": "Trainee Engineer — Procurement",
+      "company": "Rockerr Infrasolutions Pvt Ltd",
+      "location": "India",
+      "startDate": "Apr 2020",
+      "endDate": "Jun 2021",
+      "description": [
+        "Prepared and reviewed 40+ tender documents, BOQs, compliance reports, and project plans.",
+        "Managed contracts, tracked deliverables, and ensured accuracy of procurement records.",
+        "Coordinated supply chain operations, optimizing purchase orders and drafting network layouts."
+      ],
+      "tags": [
+        "Procurement",
+        "Management",
+        "Contracts",
+        "Supply Chain"
+      ]
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Vertex Quality Assurance Solutions Pvt Ltd",
+      "location": "India",
+      "startDate": "Oct 2019",
+      "endDate": "Mar 2020",
+      "description": [
+        "Managed employee files, labour documentation, and onboarding records with high accuracy.",
+        "Supported stakeholder alignment to coordinate team and sponsor objectives."
+      ],
+      "tags": [
+        "Project Management",
+        "Coordination",
+        "Documentation",
+        "Stakeholder Management"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc. in Civil and Structural Engineering ",
+      "institution": "Budapest University of Technology and Economics",
+      "location": "Budapest, Hungary",
+      "period": "2022–Present",
+      "gpa": "4.85/5.0"
+    },
+    {
+      "degree": "Diploma in Civil Engineering",
+      "institution": "Aligarh Muslim University",
+      "location": "Aligarh, India",
+      "period": "2017–2020",
+      "honors": "First Class Honors"
+    },
+    {
+      "degree": "High School — Science & Mathematics",
+      "institution": "A.M.U. City High School",
+      "location": "Aligarh, India",
+      "gpa": "9.8 / 10",
+      "honors": "Topper"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AutoCAD",
+      "category": "CAD Design",
+      "label": "CAD Design",
+      "imageUrl": "./images/software images/Autocad.png"
+    },
+    {
+      "name": "Revit",
+      "category": "BIM Modeling",
+      "label": "BIM Modeling",
+      "imageUrl": "./images/software images/Revit.jpg"
+    },
+    {
+      "name": "AxisVM",
+      "category": "Structural Analysis",
+      "label": "Structural Analysis",
+      "imageUrl": "./images/software images/Axis.png"
+    },
+    {
+      "name": "Tekla",
+      "category": "Steel Detailing",
+      "label": "Steel Detailing",
+      "imageUrl": "./images/software images/TEKLA.png"
+    },
+    {
+      "name": "Consteel",
+      "category": "Steel Design",
+      "label": "Steel Design",
+      "imageUrl": "./images/software images/Consteel.jpg"
+    },
+    {
+      "name": "WUFI",
+      "category": "Building Physics",
+      "label": "Building Physics",
+      "imageUrl": "./images/software images/Wufi.jpg"
+    },
+    {
+      "name": "Matlab",
+      "category": "Computational",
+      "label": "Computational",
+      "imageUrl": "./images/software images/Lindab.jpg"
+    },
+    {
+      "name": "Mathcad",
+      "category": "Engineering Math",
+      "label": "Engineering Math",
+      "imageUrl": "./images/software images/Mathcad.png"
+    },
+    {
+      "name": "MS Office",
+      "category": "Productivity",
+      "label": "Productivity",
+      "imageUrl": "./images/software images/MS office.png"
+    }
+  ],
+  "research": {
+    "publications": [
+      {
+        "title": "Comparative analysis of a family house in Hungary and India",
+        "venue": "CESBP2025",
+        "year": "2025",
+        "type": "conference"
+      },
+      {
+        "title": "Thermal Performance of Aerogel materials for building insulation",
+        "venue": "TDK Conference",
+        "year": "2024",
+        "type": "conference"
+      },
+      {
+        "title": "Solving the Euler-Bernoulli Beam Equation Using ANN",
+        "venue": "IRJMETS",
+        "year": "2024",
+        "type": "journal"
+      }
+    ],
+    "workshops": [
+      {
+        "title": "STAAD Pro Workshop",
+        "venue": "AMU",
+        "year": "2019",
+        "type": "workshop"
+      },
+      {
+        "title": "Branding & Marketing Workshop",
+        "venue": "ASSOCHAM Virtual Summit",
+        "year": "2022",
+        "type": "workshop"
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "title": "FutureShapers Hackathon 2024",
+      "description": "Winner",
+      "year": "2024"
+    },
+    {
+      "title": "Stipendium Hungaricum",
+      "description": "Full scholarship",
+      "year": "2022"
+    },
+    {
+      "title": "100% physical verification of IGL inventory FY 2020–21",
+      "year": "2021"
+    },
+    {
+      "title": "Merit Cum Means Minority Scholarships",
+      "description": "Awarded in 2017, 2019, 2020",
+      "year": "2017-2020"
+    }
+  ],
+  "volunteering": [
+    {
+      "role": "Event In-Charge",
+      "organization": "AMU Alumni Association",
+      "period": "2018–2020",
+      "description": "Organized and managed alumni events, coordinated with stakeholders, and ensured successful execution of various programs.",
+      "stats": [
+        "Organized 10+ events",
+        "Coordinated 500+ attendees",
+        "Managed event logistics"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Design of an Exhibition Hall in Steel Structure",
+      "year": "2024-2025",
+      "description": "Designed a large-span exhibition steel hall in compliance with Eurocode 3, Performed stability analysis, connection design, and optimization for wind and snow loads using Consteel and Axis VM Structures.",
+      "details": "The project involved the complete structural design of a 30 × 66 m exhibition hall, along with a 12 × 20 m additional office block integrated within the hall. Comprehensive stability analysis was carried out to ensure structural integrity under all critical loading scenarios. Detailed connection design followed Eurocode 3 standards, optimizing both strength and economy. Special attention was given to wind and snow loads specific to the region, supported by advanced finite element analysis. The final design achieved efficient material usage, robust stability, and safety factors exceeding code requirements.",
+      "role": "Structural Designer",
+      "images": [
+        "./images/Exb_Axis_3D_BM.Png",
+        "./images/Exb_Axis_3D_NF.Png",
+        "./images/Exb_Implementation.Png",
+        "./images/Exb_Axis_2D.Png"
+      ],
+      "technologies": [
+        "Consteel",
+        "Tekla Structures",
+        "AutoCAD",
+        "Revit"
+      ],
+      "tags": [
+        "Eurocode 3",
+        "Consteel",
+        "Tekla",
+        "Steel Design"
+      ],
+      "caseStudyUrl": "#",
+      "externalLink": "#"
+    },
+    {
+      "title": "Industrial Hall Design",
+      "year": "2023-2024",
+      "description": "Designed a large-span industrial steel hall using Eurocode 3. Performed stability analysis, connection design, and optimization for wind and snow loads using Consteel and Tekla Structures.",
+      "details": "This project involved the complete structural design of a large-span industrial steel hall spanning 60 meters. The design process included comprehensive stability analysis to ensure structural integrity under various loading conditions. I performed detailed connection design using Eurocode 3 standards, optimizing for both strength and economy. The project required careful consideration of wind and snow loads specific to the region, utilizing advanced finite element analysis tools. The final design achieved optimal material usage while maintaining safety factors well above code requirements.",
+      "role": "Lead Structural Engineer",
+      "images": [
+        "./images/Industrial project/Indus_Implementation.Png",
+        "./images/Industrial project/Indus_Detail.Png",
+        "./images/Industrial project/Indus_Cross_Section.Png",
+        "./images/Industrial project/Indus_connection.Png"
+      ],
+      "technologies": [
+        "Consteel",
+        "Tekla Structures",
+        "AutoCAD",
+        "Revit"
+      ],
+      "tags": [
+        "Eurocode 3",
+        "Consteel",
+        "Tekla",
+        "Steel Design"
+      ],
+      "caseStudyUrl": "#",
+      "externalLink": "#"
+    },
+    {
+      "title": "Design of an Hungarian Family House in RC Structure",
+      "year": "2022-2023",
+      "description": "Designed a large-span exhibition steel hall in compliance with Eurocode 3, Performed stability analysis, connection design, and optimization for wind and snow loads using Consteel and Axis VM Structures.",
+      "details": "The project involved the complete structural design of a 30 × 66 m exhibition hall, along with a 12 × 20 m additional office block integrated within the hall. Comprehensive stability analysis was carried out to ensure structural integrity under all critical loading scenarios. Detailed connection design followed Eurocode 3 standards, optimizing both strength and economy. Special attention was given to wind and snow loads specific to the region, supported by advanced finite element analysis. The final design achieved efficient material usage, robust stability, and safety factors exceeding code requirements.",
+      "role": "Structural Designer",
+      "images": [
+        "./images/Exb_Axis_3D_BM.Png",
+        "./images/Exb_Axis_3D_NF.Png",
+        "./images/Exb_Implementation.Png",
+        "./images/Exb_Axis_2D.Png"
+      ],
+      "technologies": [
+        "Consteel",
+        "Tekla Structures",
+        "AutoCAD",
+        "Revit"
+      ],
+      "tags": [
+        "Eurocode 3",
+        "Consteel",
+        "Tekla",
+        "Steel Design"
+      ],
+      "caseStudyUrl": "#",
+      "externalLink": "#"
+    },
+    {
+      "title": "Multi-Storey RC Building",
+      "year": "2020-2021",
+      "description": "Complete structural design of a 5-storey residential building. Utilized AxisVM for FEM analysis and Revit for detailing. Ensured compliance with seismic design requirements of Eurocode 8.",
+      "details": "This project encompassed the complete structural design of a 5-storey residential building with a total floor area of 2,500 square meters. The design process involved comprehensive finite element modeling using AxisVM to analyze the structural behavior under various loading conditions. I ensured full compliance with Eurocode 2 (concrete design) and Eurocode 8 (seismic design) requirements, performing detailed seismic analysis and design. The project included complete reinforcement detailing using Revit, ensuring constructability and code compliance. The final design optimized material usage while providing excellent structural performance and safety margins.",
+      "role": "Structural Design Engineer",
+      "images": [
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
+      ],
+      "technologies": [
+        "AxisVM",
+        "Revit",
+        "AutoCAD",
+        "Mathcad"
+      ],
+      "tags": [
+        "Eurocode 2 & 8",
+        "AxisVM",
+        "Revit",
+        "Seismic Design"
+      ],
+      "caseStudyUrl": "#",
+      "externalLink": "#"
+    }
+  ],
+  "gallery": [
+    {
+      "imageUrl": "./images/Gallery/Exb_Axis_2D_TC.Png",
+      "title": "Site Visit",
+      "subtitle": "Site Inspection",
+      "category": "Field Work"
+    },
+    {
+      "imageUrl": "./images/Gallery/Hackathon.Png",
+      "title": "Design Analysis",
+      "subtitle": "Structural Analysis",
+      "category": "Design"
+    },
+    {
+      "imageUrl": "./images/Gallery/CESBP.JPEG",
+      "title": "Team Meeting",
+      "subtitle": "Project Coordination",
+      "category": "Management"
+    },
+    {
+      "imageUrl": "./images/Gallery/Rods.JPG",
+      "title": "Conference",
+      "subtitle": "Research Presentation",
+      "category": "Events"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "title": "Construction Site",
+      "subtitle": "Field Work",
+      "category": "Field Work"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+      "title": "Design Review",
+      "subtitle": "Structural Design",
+      "category": "Design"
+    }
+  ],
+  "blog": [
+    {
+      "title": "Advanced Steel Structure Design Principles",
+      "category": "Structural Design",
+      "date": "15 Jan",
+      "readTime": "5 min read",
+      "description": "Exploring modern approaches to steel structure design, focusing on Eurocode 3 standards and best practices for industrial applications.",
+      "fullContent": "Steel structure design has evolved significantly with the adoption of Eurocode 3, which provides comprehensive guidelines for the design of steel structures. This article explores the fundamental principles that govern modern steel design, including stability analysis, connection design, and material optimization.\n\nOne of the key aspects of Eurocode 3 is its emphasis on stability analysis. Unlike older codes, Eurocode 3 requires detailed second-order analysis to account for geometric imperfections and material nonlinearity. This approach ensures that structures can safely resist both serviceability and ultimate limit states.\n\nConnection design is another critical area where Eurocode 3 provides detailed guidance. The code specifies various connection types, from simple pinned connections to fully rigid moment-resisting connections. Each type has specific design requirements that must be carefully considered during the design process.\n\nMaterial optimization is crucial for achieving economical designs while maintaining safety. Modern design software like Consteel and Tekla Structures enable engineers to perform iterative optimization, finding the most efficient structural solutions.",
+      "heroImage": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200",
+      "tags": [
+        "Steel Design",
+        "Eurocode 3",
+        "Structural Engineering"
+      ],
+      "url": "#",
+      "readMoreLink": "#"
+    },
+    {
+      "title": "Reinforced Concrete Design: IS Codes vs Eurocodes",
+      "category": "Structural Design",
+      "date": "08 Jan",
+      "readTime": "7 min read",
+      "description": "A comprehensive comparison between Indian Standards and European Codes for reinforced concrete design, highlighting key differences and applications.",
+      "fullContent": "The design of reinforced concrete structures varies significantly between Indian Standards (IS codes) and European Codes (Eurocodes). This article provides a detailed comparison of these two design philosophies, helping engineers understand when to apply each standard.\n\nIS codes, particularly IS 456:2000, have been the backbone of Indian structural engineering for decades. These codes are based on working stress method and limit state design, providing a comprehensive framework for RC design. The codes are well-suited for the Indian construction industry, considering local materials and construction practices.\n\nEurocode 2, on the other hand, represents a more modern approach to concrete design. It uses partial safety factors and provides detailed guidance on various aspects of concrete design, including durability, fire resistance, and seismic design. The code is more prescriptive in some areas while being more flexible in others.\n\nKey differences include load combinations, material partial safety factors, and design methodologies. Understanding these differences is crucial for engineers working on international projects or transitioning between code systems.",
+      "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200",
+      "tags": [
+        "Concrete Design",
+        "IS Codes",
+        "Eurocode 2",
+        "Standards"
+      ],
+      "url": "#",
+      "readMoreLink": "#"
+    },
+    {
+      "title": "Energy Efficiency in Building Design",
+      "category": "Building Physics",
+      "date": "22 Dec",
+      "readTime": "6 min read",
+      "description": "Understanding the role of structural design in achieving energy-efficient buildings, with focus on thermal performance and sustainability.",
+      "fullContent": "Energy efficiency in buildings is no longer just about HVAC systems and insulation. Structural engineers play a crucial role in creating energy-efficient buildings through thoughtful design decisions that impact thermal performance, material selection, and overall building sustainability.\n\nThermal mass is one of the key concepts where structural design intersects with energy efficiency. Concrete and masonry structures have high thermal mass, which can help regulate indoor temperatures by absorbing heat during the day and releasing it at night. This natural thermal regulation can significantly reduce the need for mechanical heating and cooling.\n\nMaterial selection also impacts energy efficiency. The embodied energy of construction materials varies significantly. Structural engineers can contribute to sustainability by selecting materials with lower embodied energy while maintaining structural performance. This includes considering recycled materials, locally sourced materials, and materials with longer lifespans.\n\nBuilding orientation and structural layout can also influence energy performance. By working closely with architects, structural engineers can help optimize building forms that maximize natural light and minimize heat gain, reducing the building's overall energy consumption.",
+      "heroImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200",
+      "tags": [
+        "Sustainability",
+        "Energy Efficiency",
+        "Building Physics",
+        "Green Building"
+      ],
+      "url": "#",
+      "readMoreLink": "#"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "John Smith",
+      "role": "Project Manager",
+      "company": "Construction Solutions Inc.",
+      "quote": "Salman's expertise in structural engineering and attention to detail made our project a success. His knowledge of both IS codes and Eurocodes is exceptional."
+    },
+    {
+      "name": "Sarah Johnson",
+      "role": "Architect",
+      "company": "Design Studio",
+      "quote": "Working with Salman was a pleasure. He transformed our architectural vision into a structurally sound and efficient design. Highly recommended!"
+    },
+    {
+      "name": "Michael Chen",
+      "role": "Engineering Director",
+      "company": "Infrastructure Group",
+      "quote": "Salman's research background and practical engineering skills make him a valuable asset. His innovative approach to problem-solving is outstanding."
+    }
+  ],
+  "contact": {
+    "location": "Budapest, Hungary",
+    "email": "salman4450amu@gmail.com",
+    "phone": "+36 20 514 9139",
+    "socialLinks": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com",
+        "icon": "github"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com",
+        "icon": "twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com",
+        "icon": "instagram"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com",
+        "icon": "facebook"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://youtube.com",
+        "icon": "youtube"
+      }
+    ]
+  }
+}
