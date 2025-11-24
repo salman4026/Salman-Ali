@@ -112,6 +112,8 @@ export const EducationSkills = ({ education, skills }: EducationSkillsProps) => 
                         src={skill.imageUrl}
                         alt={skill.name}
                         className="w-full h-full object-contain"
+                        loading="lazy"
+                        decoding="async"
                         onError={(e) => {
                           (e.target as HTMLImageElement).style.display = 'none';
                         }}

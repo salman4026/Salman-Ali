@@ -69,6 +69,9 @@ export const Hero = ({ data }: HeroProps) => {
                     src={data.imageUrl}
                     alt="Structural Engineering"
                     className="w-full h-auto object-cover"
+                    loading="eager"
+                    decoding="async"
+                    fetchPriority="high"
                     onError={(e) => {
                       (e.target as HTMLImageElement).style.display = 'none';
                     }}

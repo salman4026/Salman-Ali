@@ -4,7 +4,7 @@
     "role": "Structural Engineer",
     "subTagline": "Building Tomorrow's Infrastructure Today",
     "description": "Designing safe, efficient, and code-compliant structures that stand the test of time",
-    "imageUrl": "./images/Structural_Design.jpg",
+    "imageUrl": "/images/Structural_Design.jpg",
     "ctaButtons": [
       {
         "label": "View Projects",
@@ -25,7 +25,7 @@
     "subtitle": "Civil Engineer | Structural Designer | Researcher |",
     "content": "I am a civil engineer with specialized expertise in Reinforced Concrete (RC) and Steel Structure design, working with both Indian Standards (IS codes) and European Codes (Eurocodes). My portfolio includes designing multi-storey RC buildings and industrial steel halls, combining analytical precision with practical construction knowledge. I leverage advanced software tools including AutoCAD, Revit, AxisVM, Tekla, and Consteel to transform concepts into buildable structures.",
     "currentRole": "Research Assistant, Budapest University of Technology and Economics",
-    "imageUrl": "./images/salman_profile.jpg"
+    "imageUrl": "/images/salman_profile.jpg"
   },
   "experience": [
     {
@@ -110,55 +110,55 @@
       "name": "AutoCAD",
       "category": "CAD Design",
       "label": "CAD Design",
-      "imageUrl": "./images/software images/Autocad.png"
+      "imageUrl": "/images/software images/Autocad.png"
     },
     {
       "name": "Revit",
       "category": "BIM Modeling",
       "label": "BIM Modeling",
-      "imageUrl": "./images/software images/Revit.jpg"
+      "imageUrl": "/images/software images/Revit.jpg"
     },
     {
       "name": "AxisVM",
       "category": "Structural Analysis",
       "label": "Structural Analysis",
-      "imageUrl": "./images/software images/Axis.png"
+      "imageUrl": "/images/software images/Axis.png"
     },
     {
       "name": "Tekla",
       "category": "Steel Detailing",
       "label": "Steel Detailing",
-      "imageUrl": "./images/software images/TEKLA.png"
+      "imageUrl": "/images/software images/TEKLA.png"
     },
     {
       "name": "Consteel",
       "category": "Steel Design",
       "label": "Steel Design",
-      "imageUrl": "./images/software images/Consteel.jpg"
+      "imageUrl": "/images/software images/Consteel.jpg"
     },
     {
       "name": "WUFI",
       "category": "Building Physics",
       "label": "Building Physics",
-      "imageUrl": "./images/software images/Wufi.jpg"
+      "imageUrl": "/images/software images/Wufi.jpg"
     },
     {
       "name": "Matlab",
       "category": "Computational",
       "label": "Computational",
-      "imageUrl": "./images/software images/Lindab.jpg"
+      "imageUrl": "/images/software images/Lindab.jpg"
     },
     {
       "name": "Mathcad",
       "category": "Engineering Math",
       "label": "Engineering Math",
-      "imageUrl": "./images/software images/Mathcad.png"
+      "imageUrl": "/images/software images/Mathcad.png"
     },
     {
       "name": "MS Office",
       "category": "Productivity",
       "label": "Productivity",
-      "imageUrl": "./images/software images/MS office.png"
+      "imageUrl": "/images/software images/MS office.png"
     }
   ],
   "research": {
@@ -239,10 +239,10 @@
       "details": "The project involved the complete structural design of a 30 × 66 m exhibition hall, along with a 12 × 20 m additional office block integrated within the hall. Comprehensive stability analysis was carried out to ensure structural integrity under all critical loading scenarios. Detailed connection design followed Eurocode 3 standards, optimizing both strength and economy. Special attention was given to wind and snow loads specific to the region, supported by advanced finite element analysis. The final design achieved efficient material usage, robust stability, and safety factors exceeding code requirements.",
       "role": "Structural Designer",
       "images": [
-        "./images/Exb_Axis_3D_BM.Png",
-        "./images/Exb_Axis_3D_NF.Png",
-        "./images/Exb_Implementation.Png",
-        "./images/Exb_Axis_2D.Png"
+        "/images/Exb_Axis_3D_BM.Png",
+        "/images/Exb_Axis_3D_NF.Png",
+        "/images/Exb_Implementation.Png",
+        "/images/Exb_Axis_2D.Png"
       ],
       "technologies": [
         "Consteel",
@@ -266,10 +266,10 @@
       "details": "This project involved the complete structural design of a large-span industrial steel hall spanning 60 meters. The design process included comprehensive stability analysis to ensure structural integrity under various loading conditions. I performed detailed connection design using Eurocode 3 standards, optimizing for both strength and economy. The project required careful consideration of wind and snow loads specific to the region, utilizing advanced finite element analysis tools. The final design achieved optimal material usage while maintaining safety factors well above code requirements.",
       "role": "Lead Structural Engineer",
       "images": [
-        "./images/Industrial project/Indus_Implementation.Png",
-        "./images/Industrial project/Indus_Detail.Png",
-        "./images/Industrial project/Indus_Cross_Section.Png",
-        "./images/Industrial project/Indus_connection.Png"
+        "/images/Industrial project/Indus_Implementation.Png",
+        "/images/Industrial project/Indus_Detail.Png",
+        "/images/Industrial project/Indus_Cross_Section.Png",
+        "/images/Industrial project/Indus_connection.Png"
       ],
       "technologies": [
         "Consteel",
@@ -293,10 +293,10 @@
       "details": "The project involved the complete structural design of a 30 × 66 m exhibition hall, along with a 12 × 20 m additional office block integrated within the hall. Comprehensive stability analysis was carried out to ensure structural integrity under all critical loading scenarios. Detailed connection design followed Eurocode 3 standards, optimizing both strength and economy. Special attention was given to wind and snow loads specific to the region, supported by advanced finite element analysis. The final design achieved efficient material usage, robust stability, and safety factors exceeding code requirements.",
       "role": "Structural Designer",
       "images": [
-        "./images/Exb_Axis_3D_BM.Png",
-        "./images/Exb_Axis_3D_NF.Png",
-        "./images/Exb_Implementation.Png",
-        "./images/Exb_Axis_2D.Png"
+        "/images/Exb_Axis_3D_BM.Png",
+        "/images/Exb_Axis_3D_NF.Png",
+        "/images/Exb_Implementation.Png",
+        "/images/Exb_Axis_2D.Png"
       ],
       "technologies": [
         "Consteel",
@@ -341,25 +341,25 @@
   ],
   "gallery": [
     {
-      "imageUrl": "./images/Gallery/Exb_Axis_2D_TC.Png",
+      "imageUrl": "/images/Gallery/Exb_Axis_2D_TC.Png",
       "title": "Site Visit",
       "subtitle": "Site Inspection",
       "category": "Field Work"
     },
     {
-      "imageUrl": "./images/Gallery/Hackathon.Png",
+      "imageUrl": "/images/Gallery/Hackathon.Png",
       "title": "Design Analysis",
       "subtitle": "Structural Analysis",
       "category": "Design"
     },
     {
-      "imageUrl": "./images/Gallery/CESBP.JPEG",
+      "imageUrl": "/images/Gallery/CESBP.JPEG",
       "title": "Team Meeting",
       "subtitle": "Project Coordination",
       "category": "Management"
     },
     {
-      "imageUrl": "./images/Gallery/Rods.JPG",
+      "imageUrl": "/images/Gallery/Rods.JPG",
       "title": "Conference",
       "subtitle": "Research Presentation",
       "category": "Events"

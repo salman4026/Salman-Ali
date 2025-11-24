@@ -43,6 +43,8 @@ export const Blog = ({ data }: BlogProps) => {
                       src={post.heroImage}
                       alt={post.title}
                       className="w-full h-48 object-cover"
+                      loading="lazy"
+                      decoding="async"
                       onError={(e) => {
                         (e.target as HTMLImageElement).style.display = 'none';
                       }}
@@ -92,6 +94,8 @@ export const Blog = ({ data }: BlogProps) => {
                   src={selectedPost.heroImage}
                   alt={selectedPost.title}
                   className="w-full h-64 md:h-96 object-cover"
+                  loading="lazy"
+                  decoding="async"
                   onError={(e) => {
                     (e.target as HTMLImageElement).style.display = 'none';
                   }}

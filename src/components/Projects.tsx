@@ -104,6 +104,8 @@ export const Projects = ({ data }: ProjectsProps) => {
                         src={imageUrl}
                         alt={`${selectedProject.title} - Image ${idx + 1}`}
                         className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
+                        loading="lazy"
+                        decoding="async"
                         onError={(e) => {
                           (e.target as HTMLImageElement).style.display = 'none';
                         }}

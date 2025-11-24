@@ -19,6 +19,8 @@ export const About = ({ data }: AboutProps) => {
                     src={data.imageUrl}
                     alt="About Salman Ali"
                     className="w-full h-auto object-cover"
+                    loading="lazy"
+                    decoding="async"
                     onError={(e) => {
                       (e.target as HTMLImageElement).style.display = 'none';
                     }}
