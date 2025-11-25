@@ -456,33 +456,28 @@
     "socialLinks": [
       {
         "platform": "LinkedIn",
-        "url": "https://linkedin.com",
+        "url": "https://www.linkedin.com/in/salman4026/",
         "icon": "linkedin"
       },
       {
         "platform": "GitHub",
-        "url": "https://github.com",
+        "url": "https://github.com/salman4026",
         "icon": "github"
       },
       {
         "platform": "Twitter",
-        "url": "https://twitter.com",
+        "url": "https://x.com/salmanali4026",
         "icon": "twitter"
       },
       {
         "platform": "Instagram",
-        "url": "https://instagram.com",
+        "url": "https://www.instagram.com/salman445o",
         "icon": "instagram"
       },
       {
         "platform": "Facebook",
-        "url": "https://facebook.com",
+        "url": "https://www.facebook.com/salmanali4026",
         "icon": "facebook"
-      },
-      {
-        "platform": "YouTube",
-        "url": "https://youtube.com",
-        "icon": "youtube"
       }
     ]
   }
